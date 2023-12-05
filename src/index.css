@@ -1,13 +1,20 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: "GowunDodum-Regular";
+    font-weight: normal;
+    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/english/Roboto_Mono/RobotoMono-VariableFont_wght.ttf") format("truetype");
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: "KdamThmorPro-Regular";
+    font-weight: normal;
+    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Maplestory OTF Light.otf";
+    font-weight: normal;
+    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/MaplestoryFont_OTF/Maplestory OTF Light.otf") format("truetype");
+}
+body{
+    margin:0px;
+    background-color: rgb(76, 76, 247);
+    height: 100vh;
 }
