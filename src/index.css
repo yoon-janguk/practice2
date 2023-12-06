@@ -1,17 +1,17 @@
 @font-face {
     font-family: "GowunDodum-Regular";
     font-weight: normal;
-    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/english/Roboto_Mono/RobotoMono-VariableFont_wght.ttf") format("truetype");
+    src: url("../fonts/english/Roboto_Mono/RobotoMono-VariableFont_wght.ttf") format("truetype");
 }
 @font-face {
     font-family: "KdamThmorPro-Regular";
     font-weight: normal;
-    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf") format("truetype");
+    src: url("../fonts/Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: "Maplestory OTF Light.otf";
     font-weight: normal;
-    src: url("/Users/yoon_janguk/Desktop/harry potter/글씨체/MaplestoryFont_OTF/Maplestory OTF Light.otf") format("truetype");
+    src: url("../fonts/MaplestoryFont_OTF/Maplestory\ OTF\ Light.otf") format("truetype");
 }
 body{
     margin:0px;
